@@ -36,4 +36,20 @@ Tenho interesse em **segurança cibernética, redes e análise de dados**, sempr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasaturnino&layout=compact&theme=radical)
 
 ---
+
+## 📫 Contatos
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruna-saturnino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:brunasaturnino03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/brunasaturnino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ✨ Sempre aberta a aprender, compartilhar e colaborar em projetos de **dados, redes e segurança da informação**! 🚀
