@@ -1,11 +1,39 @@
-Sou **Bruna Saturnino**, estudante de Sistemas de Informação na UFMG 🎓  
-Apaixonada por tecnologia, dados e segurança da informação 🔐  
+# Olá! Eu sou a Bruna Saturnino 👋  
 
-- 🔭 Atualmente atuo em projetos de **cibersegurança, detecção de anomalias e análise de tráfego de rede**  
-- 🌱 Estou aprendendo mais sobre **Inteligência Artificial, Machine Learning, Análise de Dados e Segurança de Dados**  
-- 👯 Busco colaborar em projetos de **IA, desenvolvimento back-end e aplicações orientadas a dados**  
-- 💬 Pergunte-me sobre **Python, C, C++, JavaScript, React, HTML, CSS, Docker e Kubernetes**  
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/bruna-saturnino)**
+Sou estudante de **Sistemas de Informação na UFMG** e desenvolvedora com experiências em **back-end, análise de dados e segurança da informação**.  
+Atualmente participo de projetos de **Iniciação Científica**, trabalhando com **IA, Machine Learning e análise de tráfego de rede** para detecção de anomalias e ataques cibernéticos, utilizando **Docker e Kubernetes**.  
+Na **iJúnior UFMG**, atuei como desenvolvedora back-end, integrando sistemas e APIs em projetos reais, com metodologias ágeis e ferramentas de banco de dados.  
+Também passei pela **Fórmula SAE UFMG**, onde atuei como trainee de eletrônica, desenvolvendo circuitos e aprendendo VHDL.  
+
+Tenho interesse em **segurança cibernética, redes e análise de dados**, sempre buscando unir teoria e prática para gerar impacto real.  
+
 ---
 
-✨ Sempre aberta a aprender e contribuir em projetos inovadores! 🚀
+## 🎓 Formação
+- **Sistemas de Informação – UFMG** (2023–2027)  
+- **Ensino Médio – Colégio Santa Marcelina** (2020–2022)  
+
+---
+
+## 🚀 Tecnologias que uso
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunasaturnino&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasaturnino&layout=compact&theme=radical)
+
+---
+✨ Sempre aberta a aprender, compartilhar e colaborar em projetos de **dados, redes e segurança da informação**! 🚀
